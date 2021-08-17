@@ -177,75 +177,20 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="section-title pb-30">
-                        <img class="py-4" src="assets/images/logo-soma-sawa-light.svg" alt="Soma Sawa Logo" height="150px">
-                        <h4 class="text-white py-3">Soma Sawa leverages innovative interventions to maximize education achievements</h4>
+                        <h2 class="text-white py-3">Projects</h2>
                     </div> <!-- section title -->
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-6">
-                    <div class="services-left mt-45">
-                        <div class="services">
-                            <img src="assets/images/soma-sawa-image1.jpg" alt="">
-                        </div> <!-- services btn -->
-                    </div> <!-- services left -->
-                </div>
-                <div class="col-lg-6">
-                    
-                    <div class="services-right mt-45">
-                        <div class="row justify-content-center">
-                            <div class="col-md-6 col-sm-8">
-                                <div class="single-services text-center">
-                                    <div class="services-icon">
-                                        <i class="lni-grid-alt"></i>
-                                    </div>
-                                    <div class="services-content mt-20">
-                                        <h5 class="title mb-10">Holistic</h5>
-                                        <p>A whole child approach to learning. Ensure your child gets their full potential.</p>
-                                    </div>
-                                </div> <!-- single services -->
-                                
-                                <div class="single-services text-center mt-30">
-                                    <div class="services-icon">
-                                        <i class="lni-ruler-pencil"></i>
-                                    </div>
-                                    <div class="services-content mt-20">
-                                        <h5 class="title mb-10">Friendly</h5>
-                                        <p>Child educational play that is safe, inspiring and developmental.</p>
-                                    </div>
-                                </div> <!-- single services -->
-                            </div>
-                            <div class="col-md-6 col-sm-8">
-                                <div class="single-services text-center">
-                                    <div class="services-icon">
-                                        <i class="lni-customer"></i>
-                                    </div>
-                                    <div class="services-content mt-20">
-                                        <h5 class="title mb-10">Evidence</h5>
-                                        <p>Evidence-backed educational innovations for the education story</p>
-                                    </div>
-                                </div> <!-- single services -->
-                                
-                                <div class="single-services text-center mt-30">
-                                    <div class="services-icon">
-                                        <i class="lni-database"></i>
-                                    </div>
-                                    <div class="services-content mt-20">
-                                        <h5 class="title mb-10">Partners</h5>
-                                        <p>Mastery of foundational skills, cutting-edge technology, and resources</p>
-                                    </div>
-                                </div> <!-- single services -->
-                            </div>
-                            
-                        </div> <!-- row -->
-                    </div> <!-- services right -->
-                </div>
-                <div class="col-lg-12 pt-50">
-                    <p class="text-white py-3">Soma Sawa model will aggressively intervene at the right time to close the gaps in education before students become unsuccessful. We identify the students’ needs and then match that need with the best innovation that can quickly close the gap for the students. </p>
-
-                    <p class="text-white py-3">Out first intervention is Teaching at the Right Level (TaRL). TaRL is an evidence-backed educational approach that helps children develop basic reading and mathematics skills, opening doors to a brighter future. We will support early learners who are left behind in their classrooms to quickly help them catch up in Literacy and Numeracy. </p>
-                        
-                    <p class="text-white py-3">We will leverage resources, partners, community volunteers, education enthusiasts and parents to offer a robust but cost-effective innovation to students. Hence a fast and effective impact on students left behind in literacy and numeracy.</p>
+                    <div class="card">
+                        <img class="card-img-top" src="assets/images/soma-sawa-image1.jpg" alt="Card image cap">
+                        <div class="card-body">
+                         <img class="py-2" src="assets/images/Soma-Sawa-Logo.svg" alt="Soma Sawa logo" width="250">
+                          <p class="card-text py-3">Soma Sawa leverages innovative interventions to maximize education achievements</p>
+                          <a href="projects/somasawa/" class="main-btn">Find out more</a>
+                        </div>
+                      </div>
                 </div>
             </div> <!-- row -->
         </div> <!-- container -->
@@ -364,8 +309,8 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6">
-                    <div class="contact-title text-center">
-                        <h2 class="title">Get In Touch</h2>
+                    <div class="section-title text-center">
+                        <h3 class="title mb-15">Contact</h3>
                     </div> <!-- contact title -->
                 </div>
             </div> <!-- row -->
@@ -381,7 +326,7 @@
                                             <i class="lni-phone-handset"></i>
                                         </div>
                                         <div class="info-content">
-                                            <p>+88 1234 56789</p>
+                                            <p>+1 717 455 0812</p>
                                         </div>
                                     </div> <!-- single info -->
                                 </li>
@@ -391,7 +336,7 @@
                                             <i class="lni-envelope"></i>
                                         </div>
                                         <div class="info-content">
-                                            <p>contact@yourmail.com</p>
+                                            <p>hello@rafikisawa.com</p>
                                         </div>
                                     </div> <!-- single info -->
                                 </li>
@@ -401,7 +346,7 @@
                                             <i class="lni-home"></i>
                                         </div>
                                         <div class="info-content">
-                                            <p>203, Envato Labs, Behind Alis Steet,Australia</p>
+                                            <p>Kisumu, Kenya</p>
                                         </div>
                                     </div> <!-- single info -->
                                 </li>
@@ -451,80 +396,6 @@
     
         <section id="footer" class="footer-area">
             <div class="container">
-                <div class="footer-widget pt-75 pb-120">
-                    <div class="row">
-                        <div class="col-lg-3 col-md-5 col-sm-7">
-                            <div class="footer-logo mt-40">
-                                <a href="#">
-                                    <img src="assets/images/logo.png" alt="Logo">
-                                </a>
-                                <p class="mt-10">Gravida nibh vel velit auctor aliquetn quibibendum auci elit cons equat ipsutis sem nibh id elit.</p>
-                                <ul class="footer-social mt-25">
-                                    <li><a href="#"><i class="lni-facebook-filled"></i></a></li>
-                                    <li><a href="#"><i class="lni-twitter-original"></i></a></li>
-                                    <li><a href="#"><i class="lni-instagram"></i></a></li>
-                                </ul>
-                            </div> <!-- footer logo -->
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-5">
-                            <div class="footer-link mt-50">
-                                <h5 class="f-title">Services</h5>
-                                <ul>
-                                    <li><a href="#">Architechture Design</a></li>
-                                    <li><a href="#">Interior Design</a></li>
-                                    <li><a href="#">Autocad Services</a></li>
-                                    <li><a href="#">Lighting Design</a></li>
-                                    <li><a href="#">Poster Design</a></li>
-                                </ul>
-                            </div> <!-- footer link -->
-                        </div>
-                        <div class="col-lg-2 col-md-3 col-sm-5">
-                            <div class="footer-link mt-50">
-                                <h5 class="f-title">Help</h5>
-                                <ul>
-                                    <li><a href="#">Forum</a></li>
-                                    <li><a href="#">Blog</a></li>
-                                    <li><a href="#">Help Center</a></li>
-                                    <li><a href="#">Contact Us</a></li>
-                                    <li><a href="#">Privacy Policy</a></li>
-                                </ul>
-                            </div> <!-- footer link -->
-                        </div>
-                        <div class="col-lg-4 col-md-5 col-sm-7">
-                            <div class="footer-info mt-50">
-                                <h5 class="f-title">Contact Info</h5>
-                                <ul>
-                                    <li>
-                                        <div class="single-footer-info mt-20">
-                                            <span>Phone :</span>
-                                            <div class="footer-info-content">
-                                                <p>+88123 4567 890</p>
-                                                <p>+88123 4567 890</p>
-                                            </div>
-                                        </div> <!-- single footer info -->
-                                    </li>
-                                    <li>
-                                        <div class="single-footer-info mt-20">
-                                            <span>Email :</span>
-                                            <div class="footer-info-content">
-                                                <p>contact@yourmail.com</p>
-                                                <p>support@yourmail.com</p>
-                                            </div>
-                                        </div> <!-- single footer info -->
-                                    </li>
-                                    <li>
-                                        <div class="single-footer-info mt-20">
-                                            <span>Address :</span>
-                                            <div class="footer-info-content">
-                                                <p>5078 Jensen Key, Port Kaya, WV 73505</p>
-                                            </div>
-                                        </div> <!-- single footer info -->
-                                    </li>
-                                </ul>
-                            </div> <!-- footer link -->
-                        </div>
-                    </div> <!-- row -->
-                </div> <!-- footer widget -->
                 <div class="footer-copyright pt-15 pb-15">
                     <div class="row">
                         <div class="col-lg-12">

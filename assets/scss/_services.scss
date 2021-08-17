@@ -7,7 +7,16 @@
 
 
 .services-area{
-    background-color: $grey;
+    background-color: $theme-color;
+    @media #{$xs}{
+        padding-top: 75px;
+        padding-bottom: 80px;
+    }
+}
+
+.service-area{
+    background-color: $white;
+    color: $theme-color;
     @media #{$xs}{
         padding-top: 75px;
         padding-bottom: 80px;

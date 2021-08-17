@@ -7,7 +7,7 @@
 
 
 .team-area{
-    background-color: $grey;
+    background-color: $theme-secondary;
     @media #{$xs}{
         padding-top: 75px;
         padding-bottom: 80px;
@@ -17,13 +17,13 @@
 
 .single-temp{
     border: 1px solid transparent;
-    padding: 30px;
+    padding: 20px;
     background-color: $white;
     @include transition(0.4s);
     
     & .team-image{
         & img{
-            border-radius: 50%;
+            border-radius: 5px;
         }
     }
     & .team-content{

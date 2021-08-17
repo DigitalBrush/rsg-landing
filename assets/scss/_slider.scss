@@ -26,7 +26,7 @@
                 height: 10px;
                 font-size: 0;
                 border: 0;
-                background-color: #fbb0a5;
+                background-color: $theme-secondary;
                 border-radius: 50%;
                 cursor: pointer;
             }
@@ -52,7 +52,7 @@
     }
     
     & .slider-bg{
-        background-color: $grey;
+        background-color: transparent;
     }
     
     & .slider-product-image{
@@ -111,11 +111,11 @@
         }
         
         & .slider-title{
-            font-size: 92px;
+            font-size: 64px;
             z-index: 1;
             
             @media #{$lg}{
-                font-size: 68px;
+                font-size: 52px;
             }
             @media #{$md}{
                 font-size: 48px;
@@ -135,7 +135,7 @@
                     content: '';
                     width: 100%;
                     height: 10px;
-                    background-color: rgba(254, 120, 101, 0.5);
+                    background-color: rgba(254, 179, 101, .73);
                     left: 0;
                     bottom: 17px;
                     z-index: auto;
@@ -192,7 +192,7 @@
             & a{
                 font-size: 18px;
                 color: $hr-border-color;
-                border: 1px solid $hr-border-color;
+                border: 2px solid $hr-border-color;
                 width: 30px;
                 line-height: 32px;
                 height: 30px;
@@ -210,7 +210,7 @@
             position: absolute;
             content: '';
             width: 70%;
-            height: 1px;
+            height: 2px;
             background-color: $theme-color;
             top: 50%;
             @include transform(translateY(-50%));

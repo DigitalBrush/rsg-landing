@@ -9,6 +9,7 @@
 
 
 .page-banner-area{
+    background-color: $theme-color;
     @media #{$xs}{
         padding-top: 80px;
         padding-bottom: 80px;
@@ -40,7 +41,7 @@
             &.active{
                 font-size: 16px;
                 font-weight: 600;
-                color: $theme-color;
+                color: $theme-secondary;
             }
             
             &+ .breadcrumb-item::before{
